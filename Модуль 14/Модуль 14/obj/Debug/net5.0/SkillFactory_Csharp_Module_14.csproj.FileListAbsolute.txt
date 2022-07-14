@@ -1,0 +1,16 @@
+C:\Users\asya1\Desktop\SkillFactory_Csharp_Module_14-master\SkillFactory_Csharp_Module_14\bin\Debug\net5.0\SkillFactory_Csharp_Module_14.exe
+C:\Users\asya1\Desktop\SkillFactory_Csharp_Module_14-master\SkillFactory_Csharp_Module_14\bin\Debug\net5.0\SkillFactory_Csharp_Module_14.deps.json
+C:\Users\asya1\Desktop\SkillFactory_Csharp_Module_14-master\SkillFactory_Csharp_Module_14\bin\Debug\net5.0\SkillFactory_Csharp_Module_14.runtimeconfig.json
+C:\Users\asya1\Desktop\SkillFactory_Csharp_Module_14-master\SkillFactory_Csharp_Module_14\bin\Debug\net5.0\SkillFactory_Csharp_Module_14.runtimeconfig.dev.json
+C:\Users\asya1\Desktop\SkillFactory_Csharp_Module_14-master\SkillFactory_Csharp_Module_14\bin\Debug\net5.0\SkillFactory_Csharp_Module_14.dll
+C:\Users\asya1\Desktop\SkillFactory_Csharp_Module_14-master\SkillFactory_Csharp_Module_14\bin\Debug\net5.0\ref\SkillFactory_Csharp_Module_14.dll
+C:\Users\asya1\Desktop\SkillFactory_Csharp_Module_14-master\SkillFactory_Csharp_Module_14\bin\Debug\net5.0\SkillFactory_Csharp_Module_14.pdb
+C:\Users\asya1\Desktop\SkillFactory_Csharp_Module_14-master\SkillFactory_Csharp_Module_14\obj\Debug\net5.0\SkillFactory_Csharp_Module_14.csproj.AssemblyReference.cache
+C:\Users\asya1\Desktop\SkillFactory_Csharp_Module_14-master\SkillFactory_Csharp_Module_14\obj\Debug\net5.0\SkillFactory_Csharp_Module_14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asya1\Desktop\SkillFactory_Csharp_Module_14-master\SkillFactory_Csharp_Module_14\obj\Debug\net5.0\SkillFactory_Csharp_Module_14.AssemblyInfoInputs.cache
+C:\Users\asya1\Desktop\SkillFactory_Csharp_Module_14-master\SkillFactory_Csharp_Module_14\obj\Debug\net5.0\SkillFactory_Csharp_Module_14.AssemblyInfo.cs
+C:\Users\asya1\Desktop\SkillFactory_Csharp_Module_14-master\SkillFactory_Csharp_Module_14\obj\Debug\net5.0\SkillFactory_Csharp_Module_14.csproj.CoreCompileInputs.cache
+C:\Users\asya1\Desktop\SkillFactory_Csharp_Module_14-master\SkillFactory_Csharp_Module_14\obj\Debug\net5.0\SkillFactory_Csharp_Module_14.dll
+C:\Users\asya1\Desktop\SkillFactory_Csharp_Module_14-master\SkillFactory_Csharp_Module_14\obj\Debug\net5.0\ref\SkillFactory_Csharp_Module_14.dll
+C:\Users\asya1\Desktop\SkillFactory_Csharp_Module_14-master\SkillFactory_Csharp_Module_14\obj\Debug\net5.0\SkillFactory_Csharp_Module_14.pdb
+C:\Users\asya1\Desktop\SkillFactory_Csharp_Module_14-master\SkillFactory_Csharp_Module_14\obj\Debug\net5.0\SkillFactory_Csharp_Module_14.genruntimeconfig.cache
